@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>/Users/vsenver/Documents/Gridea/output</id>
+    <title>Gridea</title>
+    <updated>2019-05-27T10:08:51.640Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="/Users/vsenver/Documents/Gridea/output"/>
+    <link rel="self" href="/Users/vsenver/Documents/Gridea/output/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>/Users/vsenver/Documents/Gridea/output/images/avatar.png</logo>
+    <icon>/Users/vsenver/Documents/Gridea/output/favicon.ico</icon>
+    <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[服务器]]></title>
+        <id>/Users/vsenver/Documents/Gridea/output/post/fu-wu-qi/index.html</id>
+        <link href="/Users/vsenver/Documents/Gridea/output/post/fu-wu-qi/index.html">
+        </link>
+        <updated>2019-05-02T09:01:00.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong>正代服务器</strong></em></p>
+<p><strong>久速</strong>
+154.211.183.74-78  154.91.252.2-62   156.237.75.130-190   156.237.99.2-62   156.237.98.2-62   这些是一台服务器</p>
+<p>root  33923   87joyLMmZML3qOMs</p>
+<p><strong>fent</strong>
+103.24.92.98-106/117-124/141-158/215-218/224-244/248-251
+103.24.93.16-27/67-90/108-114/124-132/137-148</p>
+<p>芒果钻石<br>
+DB（svn）        52.78.48.190  DB(后台,memcached)    172.128.12.84      8pQLpXtu7VDE6q&amp;rWs0yVd^0le28868
+砖石web            54.180.53.88  172.128.2.177                                               8pQLpXtu7VDE6q&amp;rWs0yVd^0le28868
+芒果web(从库)  13.125.38.161      172.128.12.83                                        8pQLpXtu7VDE6q&amp;rWs0yVd^0le28868</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作日志]]></title>
+        <id>/Users/vsenver/Documents/Gridea/output/post/gong-zuo-ri-zhi/index.html</id>
+        <link href="/Users/vsenver/Documents/Gridea/output/post/gong-zuo-ri-zhi/index.html">
+        </link>
+        <updated>2019-05-01T02:14:59.000Z</updated>
+        <content type="html"><![CDATA[<p>工作日记</p>
+<p><strong>2019-04-30 周二</strong></p>
+<p>体育2.0   上午串场下注  下午休息</p>
+<p><strong>2019-04-29 周一</strong></p>
+<p>体育2.0  修复赛果bug     后台权限控制进一步完善接口控制(权限是根据接url来控制的)</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[工作各种账号]]></title>
+        <id>/Users/vsenver/Documents/Gridea/output/post/gong-zuo-ge-chong-zhang-hao/index.html</id>
+        <link href="/Users/vsenver/Documents/Gridea/output/post/gong-zuo-ge-chong-zhang-hao/index.html">
+        </link>
+        <updated>2019-05-01T02:13:23.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>/Users/vsenver/Documents/Gridea/output/post/hello-gridea/index.html</id>
+        <link href="/Users/vsenver/Documents/Gridea/output/post/hello-gridea/index.html">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
